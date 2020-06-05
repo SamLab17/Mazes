@@ -1,6 +1,8 @@
 # Mazes
 Maze Generator and Solver in Java
 
+![](ScaledImages/maze.png)
+
 ## Generating Mazes
 
 To generate a maze, run
